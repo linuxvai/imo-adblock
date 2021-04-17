@@ -1,0 +1,22 @@
+# adserving hosts in imo mobile app. Link of this file should be added in DNSS6 app. 
+
+::1  localhost
+
+127.0.0.1 localhost
+
+
+#adserver domains list start
+
+#Imo and Likee API
+0.0.0.0 api.imotech.tech
+0.0.0.0 api.liketech.tech
+0.0.0.0 support0.like.video
+0.0.0.0 lbs.imolive2.com
+0.0.0.0 socks.imolive2.com
+
+#Bigo Adserver
+0.0.0.0 bigf.bigo.sg
+0.0.0.0 esx.bigo.sg
+0.0.0.0 mraid.bigo.sg
+0.0.0.0 gdl.masala.sh
+0.0.0.0 gdl.news-cdn.site
