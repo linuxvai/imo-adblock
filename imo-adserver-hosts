@@ -8,8 +8,10 @@
 #adserver domains list start
 
 #Imo and Likee API
+0.0.0.0 config.imoim.app
 0.0.0.0 api.imotech.tech
 0.0.0.0 api.liketech.tech
+0.0.0.0 api.likee.video
 0.0.0.0 support0.like.video
 0.0.0.0 lbs.imolive2.com
 0.0.0.0 socks.imolive2.com
@@ -20,3 +22,14 @@
 0.0.0.0 mraid.bigo.sg
 0.0.0.0 gdl.masala.sh
 0.0.0.0 gdl.news-cdn.site
+0.0.0.0 https-api.bigolive.tv
+0.0.0.0 dt.beyla.site
+0.0.0.0 cs9.wac.phicdn.net
+0.0.0.0 impression.appsflyer.com
+0.0.0.0 app-measurement.com
+
+# Google Play Connections
+0.0.0.0 android.googleapis.com
+0.0.0.0 play.googleapis.com
+0.0.0.0 www.googelapis.com
+
