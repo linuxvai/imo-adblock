@@ -48,8 +48,17 @@
 0.0.0.0 play.googleapis.com
 0.0.0.0 www.googelapis.com
 0.0.0.0 instantmessaging-pa.googleapis.com
-0.0.0.0 alt5-mtalk.google.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 alt1-mtalk.google.com
+0.0.0.0 alt2-mtalk.google.com
+0.0.0.0 alt3-mtalk.google.com
 0.0.0.0 alt4-mtalk.google.com
+0.0.0.0 alt5-mtalk.google.com
+0.0.0.0 alt6-mtalk.google.com
+0.0.0.0 alt7-mtalk.google.com
+0.0.0.0 alt8-mtalk.google.com
+0.0.0.0 alt9-mtalk.google.com
+0.0.0.0 alt10-mtalk.google.com
 0.0.0.0 mtalk.google.com
 
 
