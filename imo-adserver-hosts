@@ -34,6 +34,8 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 t.appsflyersdk.com
 0.0.0.0 imp.control.kochava.com
+0.0.0.0 bat-bing-com.a-0001.a-msedge.net
+
 
 #Youtube Adserver
 0.0.0.0 www.googleadservices.com
@@ -45,4 +47,9 @@
 0.0.0.0 android.googleapis.com
 0.0.0.0 play.googleapis.com
 0.0.0.0 www.googelapis.com
+0.0.0.0 instantmessaging-pa.googleapis.com
+0.0.0.0 alt5-mtalk.google.com
+0.0.0.0 alt4-mtalk.google.com
+0.0.0.0 mtalk.google.com
+
 
