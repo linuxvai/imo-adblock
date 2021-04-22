@@ -29,22 +29,36 @@
 0.0.0.0 gdl.masala.sh
 0.0.0.0 gdl.news-cdn.site
 0.0.0.0 dt.beyla.site
-0.0.0.0 cs9.wac.phicdn.net
+
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 app-measurement.com
 0.0.0.0 t.appsflyersdk.com
+0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 imp.control.kochava.com
+
 0.0.0.0 bat-bing-com.a-0001.a-msedge.net
+0.0.0.0 ocsp.pki.goog
+0.0.0.0 j2apps.s.llnwi.net
+0.0.0.0 cs9.wac.phicdn.net
+
 
 
 #Youtube Adserver
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 doubleclick.net
 0.0.0.0 www.googleadservices.com
 0.0.0.0 *.googleadservices.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 *.google-analytics.com
 
+# Facebook Connections
+0.0.0.0 graph.facebook.com
+0.0.0.0 web.facebook.com
+
 # Google Play Connections
+0.0.0.0 android.clients.google.com
 0.0.0.0 android.googleapis.com
+0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 play.googleapis.com
 0.0.0.0 www.googelapis.com
 0.0.0.0 instantmessaging-pa.googleapis.com
